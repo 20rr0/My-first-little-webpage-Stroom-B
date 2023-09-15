@@ -10,3 +10,35 @@ body {
 .highlight {
     color: #FF0000;
 }
+
+#introText {
+    width: 471px;
+    float: left;
+}
+
+#profilePicture {
+    float: left;
+}
+
+.reset {
+    clear: both;
+}
+
+#hobbyText {
+    width: 380px;
+    float: left;
+}
+
+#heroShot {
+    float: left;
+}
+
+#funnyImage {
+    float: left;
+}
+
+#socials {
+    width: 364px;
+    float: left;
+    background-color: #D9D9D9;
+}
